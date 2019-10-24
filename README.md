@@ -4,5 +4,7 @@
  `npm install`
 
  ## Run
- `npm start`
- `Then wait while "Loading..." until "Ready"`
+ ```
+ npm start
+ Then wait while "Loading..." until "Ready"
+ ```
