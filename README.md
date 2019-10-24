@@ -5,3 +5,4 @@
 
  ## Run
  `npm start`
+ `Then wait while "Loading..." until "Ready"`
